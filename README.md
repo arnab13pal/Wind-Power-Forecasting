@@ -19,5 +19,3 @@
 - **Integrated interactive widgets into the Jupyter notebook** for real-time model evaluation, using **Voila** to convert notebooks into standalone applications, facilitating stakeholder engagement and model demonstration.
 
 - **Explored advanced machine learning techniques** post-ARIMA analysis to further improve forecasting accuracy, focusing on model scalability and deployment for real-time applications.
-
-These points are detailed, highlight your technical expertise, and quantify your impact on the project, making them suitable for a data science or machine learning role. Adjust the details to best reflect your personal experience and the tools you used.
